@@ -1,0 +1,9 @@
+c:\users\alaa\documents\visual studio 2012\Projects\converting from binary to decimal\converting from binary to decimal\bin\Debug\converting from binary to decimal.exe.config
+c:\users\alaa\documents\visual studio 2012\Projects\converting from binary to decimal\converting from binary to decimal\bin\Debug\converting from binary to decimal.exe
+c:\users\alaa\documents\visual studio 2012\Projects\converting from binary to decimal\converting from binary to decimal\bin\Debug\converting from binary to decimal.pdb
+c:\users\alaa\documents\visual studio 2012\Projects\converting from binary to decimal\converting from binary to decimal\obj\Debug\converting from binary to decimal.csprojResolveAssemblyReference.cache
+c:\users\alaa\documents\visual studio 2012\Projects\converting from binary to decimal\converting from binary to decimal\obj\Debug\converting_from_binary_to_decimal.Form1.resources
+c:\users\alaa\documents\visual studio 2012\Projects\converting from binary to decimal\converting from binary to decimal\obj\Debug\converting_from_binary_to_decimal.Properties.Resources.resources
+c:\users\alaa\documents\visual studio 2012\Projects\converting from binary to decimal\converting from binary to decimal\obj\Debug\converting from binary to decimal.csproj.GenerateResource.Cache
+c:\users\alaa\documents\visual studio 2012\Projects\converting from binary to decimal\converting from binary to decimal\obj\Debug\converting from binary to decimal.exe
+c:\users\alaa\documents\visual studio 2012\Projects\converting from binary to decimal\converting from binary to decimal\obj\Debug\converting from binary to decimal.pdb
